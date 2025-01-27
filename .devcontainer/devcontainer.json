@@ -1,0 +1,9 @@
+{
+    "name": "Rust DevContainer",
+    "image": "mcr.microsoft.com/devcontainers/rust:bullseye",
+    "customizations": {
+      "vscode": {
+        "extensions": ["rust-lang.rust-analyzer"]
+      }
+    } 
+}
